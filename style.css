@@ -1,0 +1,10 @@
+body {
+    background: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFF;
+}
+
+.title,
+.subtitle {
+    text-align: center;
+}
