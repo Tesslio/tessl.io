@@ -2,9 +2,14 @@ body {
     background: #333;
     font-family: Arial, Helvetica, sans-serif;
     color: #FFF;
+    text-align: center;
 }
 
-.title,
-.subtitle {
-    text-align: center;
+a,
+a:link,
+a:visited,
+a:hover,
+a:focus,
+a:active {
+    color: hotpink;
 }
